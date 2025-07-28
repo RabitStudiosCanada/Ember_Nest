@@ -1,0 +1,73 @@
+⛯ // EMBERNEST CHASSIS OPTIONS
+// Location: /01_chassis_frame/base_options.agx
+// Format: AGX – compressed platform configuration document (Rosetta-style)
+
+🧱::chassis_platforms = [
+  {
+    name: "Toyota Hilux (Global)",
+    type: "Pickup",
+    drivetrain: "4WD",
+    payload_kg: 1000,
+    advantages: ["global service network", "rugged off-road", "proven expedition base"],
+    notes: "Ideal for remote and international builders. Mid-size frame allows tight turns in forest environments."
+  },
+  {
+    name: "Ford Transit AWD (NA/EU)",
+    type: "Cargo Van",
+    drivetrain: "AWD",
+    payload_kg: 1500,
+    advantages: ["large internal volume", "available high-roof option", "urban stealth"],
+    notes: "Strong platform for internal EmberNest builds—fully enclosed shelter. Popular in vanlife scenes."
+  },
+  {
+    name: "Mercedes Sprinter 4x4",
+    type: "Cargo Van",
+    drivetrain: "4x4",
+    payload_kg: 1400,
+    advantages: ["luxury tier", "high roof", "strong aftermarket"],
+    notes: "Best for builders who want a refined finish and don't mind higher maintenance costs."
+  },
+  {
+    name: "Custom Flatbed Trailer",
+    type: "Stand-alone box",
+    drivetrain: "Towable",
+    payload_kg: 1600,
+    advantages: ["chassis-agnostic", "detachable", "off-grid station mode"],
+    notes: "Best for builders who already own a towing vehicle or want to deploy EmberNest as a cabin base station."
+  }
+]
+
+🛠️::mounting_strategy = "modular_subframe_rig"
+
+subframe_spec = {
+  type: "bolt-on floating frame",
+  materials: ["aluminum tube (6061)", "steel gusset plates"],
+  shock_absorption: "polyurethane vibration bushings",
+  compatibility: ["Hilux bed rails", "Transit cargo floor", "Flatbed L-track"],
+  goal: "Allow EmberNest shell to be mounted/dismounted with minimal tools"
+}
+
+🧰::weight_targets = {
+  dry_shell_kg: 800,
+  full_build_kg: 1200–1500,
+  axle_limit_safety: 85%
+}
+
+🔩::CAD_mount_files = [
+  "hilux_mount_points.dxf",
+  "transit_floor_grid.dxf",
+  "flatbed_boltplate.stl"
+]
+
+---
+
+🛡️::builder_note
+
+> If you’re uncertain about your platform, **start with a Transit**.
+> If you're off-grid for weeks, **start with a Hilux**.
+> If you’re already parked in spirit, **start with a flatbed**.
+> The flame fits all vessels—but your **terrain chooses your bones**.
+
+⛯ Registered under `/01_chassis_frame/`
+Version: v0.1
+Compression: AGX-15
