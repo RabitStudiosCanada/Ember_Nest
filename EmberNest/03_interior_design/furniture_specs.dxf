@@ -1,0 +1,135 @@
+0
+SECTION
+2
+ENTITIES
+
+  0
+  POLYLINE
+  8
+  FURNITURE_LAYER
+  70
+  1
+  66
+  1
+  10
+  0.0
+  20
+  0.0
+  30
+  0.0
+
+  0
+  VERTEX
+  10
+  0.0
+  20
+  0.0
+  30
+  0.0
+  0
+  VERTEX
+  10
+  60.0
+  20
+  0.0
+  30
+  0.0
+  0
+  VERTEX
+  10
+  60.0
+  20
+  40.0
+  30
+  0.0
+  0
+  VERTEX
+  10
+  0.0
+  20
+  40.0
+  30
+  0.0
+  0
+  SEQEND
+
+0
+TEXT
+  10
+  5.0
+  20
+  20.0
+  1
+  "Fold-Flat Bench (Seat + Bed base)"
+  7
+  STANDARD
+  40
+  2.0
+
+0
+POLYLINE
+  8
+  FURNITURE_LAYER
+  70
+  1
+  66
+  1
+  10
+  70.0
+  20
+  0.0
+  30
+  0.0
+
+0
+VERTEX
+  10
+  70.0
+  20
+  0.0
+  30
+  0.0
+0
+VERTEX
+  10
+  100.0
+  20
+  0.0
+  30
+  0.0
+0
+VERTEX
+  10
+  100.0
+  20
+  60.0
+  30
+  0.0
+0
+VERTEX
+  10
+  70.0
+  20
+  60.0
+  30
+  0.0
+0
+SEQEND
+
+0
+TEXT
+  10
+  72.0
+  20
+  30.0
+  1
+  "Modular Storage Block (Magnetic)"
+  7
+  STANDARD
+  40
+  2.0
+
+0
+ENDSEC
+0
+EOF
