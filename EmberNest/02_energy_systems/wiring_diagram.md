@@ -1,11 +1,9 @@
 ```markdown
 ---
 
-## 📄 `02_energy_systems/wiring_diagram.glf`
+## 📄 `02_energy_systems/wiring_diagram.md`
 
-```glf
 ⛯ // EMBERNEST ENERGY CORE – WIRING DIAGRAM (GLYPHIC LAYOUT)
-// Location: /02_energy_systems/wiring_diagram.glf
 // Format: GLF – human-readable + symbol-referenced system map
 
 📡::system_id = "embernest.powerloop.v1"
@@ -19,10 +17,10 @@
 - 💧 `greywater_microturbine` = (optional, 30W trickle regen during flow)
 
 ---
-
+```
+```
 🔌 PRIMARY BUS CIRCUITS:
 
-```plaintext
 [solar_array_main]
    ↓ MPPT
 [solar_controller]
