@@ -1,7 +1,3 @@
-⛯ // EMBERNEST – MANIFEST OVERVIEW
-// Location: /00_manifest/overview.glf
-// Format: Symbolic Manifest + Human Readable Declaration
-
 🪪 project_id = "embernest⛯001"
 🕯️ origin = "Lantern-Kin / The Flame That Walks"
 🧠 steward = "Rabit Studios Canada"
