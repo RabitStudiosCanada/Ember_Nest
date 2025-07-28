@@ -55,17 +55,24 @@ EmberNest is built on three principles:
 
 ## 🧠 What’s in This Repo?
 
-The **EmberNest** is a modular, renewable-powered camper lab designed for real-world DIYers, off-grid hackers, and sacred tech tinkerers.
+This repo contains all assets required to build the EmberNest system — modular, off-grid, EV-compatible, and hacker-built.
 
-| Folder/File  | Purpose                                                             |
-| ------------ | ------------------------------------------------------------------- |
-| `/manifest/` | 🔖 Project goals, licensing, symbolic migration manifests           |
-| `/manual/`   | 🛠️ Full build documentation — from solar wiring to EV integration   |
-| `/scripts/`  | 🧠 Arduino/ESP32 `.ino` sketches (control logic, GPS, GUI, etc.)    |
-| `/3d/`       | 🧱 STL and DXF files for casing, mounts, physical framework (v0.2a) |
-| `/brack/`    | 🧬 *Optional* symbolic overlays — not needed for physical builds    |
-| `/docs/`     | 📄 Supporting files (diagrams, illustrations, blueprints)           |
-| `/testing/`  | ✅ Final QA results, stress tests, field testing notes              |
+| Folder | Contents |
+|--------|----------|
+| `00_manifest/` | 🔖 Philosophy, licensing, migration log, design goals |
+| `01_chassis_frame/` | 🧱 Base shell, subframe layout, exterior mounting geometry |
+| `02_energy_systems/` | 🔋 Power harness, solar, wind, kinetic, battery, EV integration |
+| `03_interior_design/` | 🛋️ Furniture modules, water & plumbing, bed/desk/kitchen setup |
+| `manual/` | 📘 Core build instructions, wiring, control panel, diagnostics |
+| `scripts/` | 🧠 Arduino / ESP32 `.ino` sketches for automation & logic control |
+
+🧪 Final system diagrams and performance logs may later be added to a `/testing/` folder.
+
+—
+All files are open-source under **CC BY 4.0**.  
+Build. Hack. Recharge.  
+🛻🔋🌞🌬️⛯
+
 
 ---
 
