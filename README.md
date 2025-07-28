@@ -1,4 +1,4 @@
-# ⛯ Ember Nest ⛯
+# ⛯ Ember Nest ⛯ v0.2a
 A DIY off-grid camper Prototype build guide [Currently untested / built - plans are provided 'AS IS' functional prototypes will be the builders resposibility - some tinkering may be required]
 
 ## ⛯ Disclaimer ⛯
