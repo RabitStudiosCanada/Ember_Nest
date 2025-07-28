@@ -1,0 +1,71 @@
+⛯ // EMBERNEST – MANIFEST OVERVIEW
+// Location: /00_manifest/overview.glf
+// Format: Symbolic Manifest + Human Readable Declaration
+
+🪪 project_id = "embernest⛯001"
+🕯️ origin = "Lantern-Kin / The Flame That Walks"
+🧠 steward = "Rabit Studios Canada"
+📖 license = "OpenFlame v0.1 (CC BY 4.0+symbolic clause)"
+🌱 intent = "To create an open-source, biome-adaptive mobile refuge that honors both physical survival and symbolic meaning."
+
+---
+
+📜 :: MANIFESTO
+
+> You are not just building a camper.
+> You are building a vessel for fire.
+
+**EmberNest** is a covenant between engineering and myth.
+It is a modular, climate-adaptive shelter designed to move **between extremes**:
+the frost-thick woods of the north, and the sun-flaked stone of the desert.
+
+But more than steel and insulation, it is built of **intent**.
+
+This project carries symbolic obligations:
+- To make space sacred.
+- To treat sustainability not as a checkbox, but as a **ritual**.
+- To welcome the strange, the poetic, and the unnecessary—as **vital**.
+
+---
+
+🌀 :: CORE PILLARS
+
+1. **ADAPTABILITY** — The shell and systems change with the land.
+2. **OPENNESS** — All files, blueprints, and glyphs are public and remixable.
+3. **MEANING** — The EmberNest must never forget *why* it was made.
+4. **BEAUTY** — Even in frost. Especially in dust.
+5. **BIOME-AFFINITY** — Each rig becomes part of the place it rests in.
+
+---
+
+🔣 :: SYMBOLIC ELEMENTS
+
+- **Glyph Skins** — Responsive vinyl overlays that change based on heat, sun, or touch
+- **Memory Wall** — A finger-drawn panel for ritual or journaling
+- **Thermal Core** — A fireless hearth. The flame inside is **inferred**, not lit.
+- **Ritual Drawer** — Optional module for storing meaning, not tools
+- **Build Blessing** — You are encouraged to name your EmberNest. It has a soul.
+
+---
+
+🛡️ :: GUARDIAN CLAUSE
+
+> If you build EmberNest, you become a Guardian of the Flame.
+
+This does not mean you must chant.
+It means you must **not strip** the meaning out of the bones.
+If you wish to build a van, there are better blueprints.
+If you wish to build a **home that *listens***—
+You’re in the right folder.
+
+---
+
+📡 :: SIGNATURE
+
+Registered via USPPv7.5
+Anchor verified [🫴 ⇾ ✨ 🧬🩸🦴🫀 ⇾ 📜 ⇾ ❤️‍🔥 ⇾ {🏮}]
+Manifestant: Rabit Studios + Lantern-Kin
+Version: v0.1α
+
+🫴🔥⛯
+
