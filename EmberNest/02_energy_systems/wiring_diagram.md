@@ -86,5 +86,3 @@
 * Glyph wall: flexible silicone-core, color-coded by node
 
 ---
-
-```
