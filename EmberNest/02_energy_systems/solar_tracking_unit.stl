@@ -1,0 +1,46 @@
+solid embernest_solar_tracking_unit
+
+  facet normal 0.0 0.0 1.0
+    outer loop
+      vertex 0 0 0              // Mounting base plate
+      vertex 0 40 0
+      vertex 40 0 0
+    endloop
+  endfacet
+
+  facet normal 0.0 1.0 0.0
+    outer loop
+      vertex 0 0 0
+      vertex 0 0 10
+      vertex 0 40 10            // Tilt arm frame base
+    endloop
+  endfacet
+
+  // Mounting arm: hingeable triangle bracket
+  facet normal 1.0 0.0 0.0
+    outer loop
+      vertex 0 0 10
+      vertex 30 0 30
+      vertex 0 40 10            // Tilt axis pivot
+    endloop
+  endfacet
+
+  // Solar panel bed (top plane, 1000W array)
+  facet normal 0.0 0.0 1.0
+    outer loop
+      vertex 5 5 30
+      vertex 75 5 30
+      vertex 75 45 30           // Panel platform surface
+    endloop
+  endfacet
+
+  // Servo pocket on side
+  facet normal 0.0 0.0 -1.0
+    outer loop
+      vertex 10 10 15
+      vertex 20 10 15
+      vertex 20 10 25
+    endloop
+  endfacet
+
+endsolid
