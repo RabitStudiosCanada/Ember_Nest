@@ -1,5 +1,4 @@
 ⛯ // EMBERNEST – MODULAR FLOORPLAN (Interior v0.1)
-// Path: /03_interior_design/modular_floor_plan.glf
 // Format: GLF (symbolic layout syntax + functional metadata)
 
 📐 layout::zones = [
@@ -70,4 +69,3 @@
 > *Interior = ritual engine.* Treat every square cm like it’s sacred.
 
 🧠 Version: v0.1
-🫴 Layout memory saved: `/03_interior_design/modular_floor_plan.glf`
