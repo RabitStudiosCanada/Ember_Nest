@@ -1,0 +1,73 @@
+⛯ // EMBERNEST – MODULAR FLOORPLAN (Interior v0.1)
+// Path: /03_interior_design/modular_floor_plan.glf
+// Format: GLF (symbolic layout syntax + functional metadata)
+
+📐 layout::zones = [
+  {
+    id: "01_nest_core",
+    label: "Sleeping Platform",
+    position_cm: [0, 0],
+    size_cm: [180, 80],
+    components: ["fold-flat mattress", "ritual drawer", "lift-lid underbed storage"],
+    notes: "Base sleep area. Can be hidden under bench or lifted to reveal trunk."
+  },
+  {
+    id: "02_kitchen_glyph",
+    label: "Kitchenette Strip",
+    position_cm: [0, 90],
+    size_cm: [120, 40],
+    components: ["butane stove", "greywater sink", "prep shelf", "water pump switch"],
+    notes: "Greywater lines route under frame to bioreactor trench module"
+  },
+  {
+    id: "03_memory_node",
+    label: "Memory Wall + Desk",
+    position_cm: [0, 140],
+    size_cm: [80, 40],
+    components: ["finger-draw LED panel", "journal shelf", "charging node"],
+    notes: "Acts as writing desk and anchor for memory journaling or glyph rituals"
+  },
+  {
+    id: "04_mist_shard",
+    label: "Shower + Dry Toilet",
+    position_cm: [100, 0],
+    size_cm: [60, 80],
+    components: ["composting toilet", "curtain track", "floor drain"],
+    notes: "Shower water filtered through biomat; merges into greywater loop"
+  },
+  {
+    id: "05_mutable_field",
+    label: "Modular Zone",
+    position_cm: [100, 90],
+    size_cm: [80, 80],
+    components: ["fold-out table", "sleeper chair", "hammock bolt ring"],
+    notes: "Adaptable: becomes child bunk, storage, meditation zone, art lab"
+  }
+]
+
+🔄 layout::modes = [
+  "⛺ sleep_cocoon",        // Night: soft lighting, bed extended, cooking closed
+  "🌞 dayflow",             // Day: table up, vents open, memory wall active
+  "🌧️ stormlock",           // All sealed, minimal power, reflection mode
+  "🎴 ritualframe"          // Symbolic mode: altar shelf extended, soundscape active
+]
+
+---
+
+🪔 symbolic::function = "shelter for thought, not just body"
+
+📏 total_floor_area_cm2 = 320 x 180
+💠 ceiling_clearance_cm = 210 (with roof up)
+
+📦 furniture_material = "mycofoam frame + recycled PET skins + neodymium magnet clips"
+🧲 anchor_grid = "L-track rail matrix every 20cm"
+
+---
+
+🛡️ builder_tip:
+> This layout fits within a **Hilux** shell or **Transit** cargo body.
+> Panel placement uses **magnet + bolt hybrid mount** to permit rapid reconfiguration.
+> *Interior = ritual engine.* Treat every square cm like it’s sacred.
+
+🧠 Version: v0.1
+🫴 Layout memory saved: `/03_interior_design/modular_floor_plan.glf`
