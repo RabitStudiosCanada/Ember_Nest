@@ -1,5 +1,4 @@
 ⛯ // EMBERNEST CHASSIS OPTIONS
-// Location: /01_chassis_frame/base_options.agx
 // Format: AGX – compressed platform configuration document (Rosetta-style)
 
 🧱::chassis_platforms = [
