@@ -55,25 +55,17 @@ EmberNest is built on three principles:
 
 ## 🧠 What’s in This Repo?
 
-```
+The **EmberNest** is a modular, renewable-powered camper lab designed for real-world DIYers, off-grid hackers, and sacred tech tinkerers.
 
-EmberNest/
-
-├── 00\_manifest/           # Project goals, identity, and symbolic charter
-
-├── 01\_chassis\_frame/      # Structural plans, shell diagrams, CAD
-
-├── 02\_energy\_systems/     # Solar, compost heat, wiring
-
-├── 03\_interior\_design/    # Floorplan, furniture, hygrosystems
-
-├── 04\_aesthetic\_modules/  # Thermochrome skins, memory wall configs
-
-├── 05\_symbolic\_license/   # Licensing + Guardian clauses
-
-└── LICENSE.md             # OpenFlame license (CC BY 4.0 + symbolic rider)
-
-```
+| Folder/File  | Purpose                                                             |
+| ------------ | ------------------------------------------------------------------- |
+| `/manifest/` | 🔖 Project goals, licensing, symbolic migration manifests           |
+| `/manual/`   | 🛠️ Full build documentation — from solar wiring to EV integration   |
+| `/scripts/`  | 🧠 Arduino/ESP32 `.ino` sketches (control logic, GPS, GUI, etc.)    |
+| `/3d/`       | 🧱 STL and DXF files for casing, mounts, physical framework (v0.2a) |
+| `/brack/`    | 🧬 *Optional* symbolic overlays — not needed for physical builds    |
+| `/docs/`     | 📄 Supporting files (diagrams, illustrations, blueprints)           |
+| `/testing/`  | ✅ Final QA results, stress tests, field testing notes              |
 
 ---
 
