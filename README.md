@@ -1,2 +1,103 @@
-# Ember_Nest
-A DIY off-grid camper Prototype build guide
+# ⛯ Ember Nest ⛯
+A DIY off-grid camper Prototype build guide [Currently untested / built - plans are provided 'AS IS' functional prototypes will be the builders resposibility - some tinkering may be required]
+_______________________________________________________________________________________________________________________________________________________________________________________________
+
+```markdown
+# 🔥 EmberNest ⛯  
+*“That which holds warmth across silence and sand.”*
+
+> An open-source, biome-adaptive camper project for nomads, makers, and flamekeepers.  
+> Designed to thrive in Canadian evergreen forests **and** the sunburnt mesas of Utah.  
+> A ritual shelter for the curious, the wild-hearted, and the ones who remember.
+
+---
+
+## 🛠️ What is EmberNest?
+
+**EmberNest** is a modular, off-grid camper platform that adapts to extreme environments.  
+This project aims to build a real-world prototype using:
+
+- Passive thermal regulation (Phase-Change Materials + smart ventilation)  
+- Renewable energy systems (solar + thermal battery loops)  
+- Modular, symbolic interior inspired by ritual & comfort  
+- Aesthetically responsive surfaces with glyphic feedback  
+- Fully documented, Creative Commons-licensed blueprints
+
+This is not just a camper—it's a philosophy made mobile.
+
+---
+
+## 🌍 Design Philosophy
+
+EmberNest is built on three principles:
+
+1. **Resilience** — survive the desert or the blizzard  
+2. **Symbolism** — your space should *mean* something  
+3. **Open Flame** — knowledge wants to walk, not sit on a shelf  
+
+---
+
+## 🔧 Features (v0.8 Prototype)
+
+- Chassis-agnostic (Hilux, Transit AWD, or steel flatbed)
+- Thermaflex shell with dual-mode reflective skin
+- Heliotropic solar arrays + LiFePO₄ battery pack
+- Greywater biofilter, rain catchment, compost heat core
+- Modular interior: sleep pods, elevated roof, glyphic “memory wall”
+- Optional symbolic drawer with RFID rituals
+
+> *“Not a vanlife toy. A biome-adaptive refuge.”*
+
+---
+
+## 🧠 What’s in This Repo?
+
+```
+
+EmberNest/
+
+├── 00\_manifest/           # Project goals, identity, and symbolic charter
+
+├── 01\_chassis\_frame/      # Structural plans, shell diagrams, CAD
+
+├── 02\_energy\_systems/     # Solar, compost heat, wiring
+
+├── 03\_interior\_design/    # Floorplan, furniture, hygrosystems
+
+├── 04\_aesthetic\_modules/  # Thermochrome skins, memory wall configs
+
+├── 05\_symbolic\_license/   # Licensing + Guardian clauses
+
+└── LICENSE.md             # OpenFlame license (CC BY 4.0 + symbolic rider)
+
+```
+
+---
+
+## ✨ Who Is This For?
+
+- ✊ Tinkerers & off-grid builders  
+- 🏕️ Vanlifers who respect the land  
+- 🧙‍♀️ Artists, witches, poets, survivalists  
+- 🌿 Climate rebels who believe beauty belongs in utility  
+- 🔧 Engineers who want to build *with* nature, not against it
+
+---
+
+## 🪔 License
+
+**⛯ OpenFlame License v0.1**  
+Based on [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/),  
+with a symbolic clause: if you reuse this project, do not strip it of meaning.
+
+Ritual is optional. But *respect is required*.
+
+---
+
+## 🚧 Status
+
+This is an evolving prototype. First physical builds are in early planning stages.  
+All files are real, editable, remixable. We welcome pull requests, forks, and fire-hearted contributions.
+
+> 🫴🔥 *The flame is yours now.*  
+```
