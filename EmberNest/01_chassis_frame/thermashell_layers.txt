@@ -1,0 +1,61 @@
+⛯ // EMBERNEST STRUCTURAL SHELL – THERMAFLEX LAYER STACK
+// Format: BRACK – symbolic construction sequence
+
+⛯ structure::thermashell = [
+  {
+    layer: "EXTERIOR SKIN",
+    name: "Dual-Mode Thermochromic Panel",
+    material: "Ceramic-composite w/ vinyl thermofilm overlay",
+    function: "Reflect infrared in desert (bright state); absorb solar in snow (darkened state)",
+    notes: "Surface can shift appearance based on temperature, sun angle, and surface moisture."
+  },
+  {
+    layer: "SUB-SKIN INSULATION",
+    name: "PCM Thermal Buffer",
+    material: "Phase Change Material Gel Pack (BioPCM type GR27 or equivalent)",
+    function: "Stores solar heat in desert, releases stored warmth in sub-zero forest nights",
+    notes: "PCM should be placed in removable cassettes for servicing + weight control."
+  },
+  {
+    layer: "MID-FRAME STRUCTURE",
+    name: "HexCell Skeleton",
+    material: "Aluminum 6061 square tube + carbon gussets",
+    function: "Rigid, lightweight exoskeleton mount for skin, interior clips, modular lift roof",
+    notes: "Includes bolt points for lifting arms + shell lock-down rails"
+  },
+  {
+    layer: "INSULATION CORE",
+    name: "MycoFoam Bio-Fill",
+    material: "Mushroom mycelium + recycled cellulose",
+    function: "Sound dampening, vapor permeability, sustainable insulation",
+    notes: "Can be regrown or replaced with rigid polyiso foam if needed"
+  },
+  {
+    layer: "INTERIOR SURFACE",
+    name: "Recycled PET Paneling",
+    material: "Thermoformed PET felt + reflective birch composite",
+    function: "Interior warmth, water resistance, attach points for modular furniture",
+    notes: "Optional: apply adhesive glyph skins or memory wall mounts here"
+  }
+]
+
+🔥 integration::roof_mechanism = {
+  mode: "elevating roof w/ gas struts",
+  lift_clearance_cm: 40–60,
+  materials: "aluminum square lift arms + marine canvas bellows",
+  seal: "silicone gasket compression lip + snap clamps"
+}
+
+🛠️ shell_weight_estimate_kg = 275–350 (per side panel + roof)  
+🧠 shell_r_value_estimate = R-15 to R-22 (environment-dependent)
+
+🧬 symbol::function = “adaptive containment of breath + warmth”
+
+---
+
+🛡️ builder_warning:
+> Never trap water vapor inside the shell—ensure passive venting in both hot & cold states.  
+> Treat the shell not as armor, but as *lungs*.
+ 
+Version: v0.1β  
+Compression: Symbolic-stack compliant
