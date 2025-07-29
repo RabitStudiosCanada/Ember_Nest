@@ -33,10 +33,8 @@ Inspired by high-tech passive climate systems, this DIY shell is made from:
 | 🔦 LED Strip + Button | Internal mood light → external signal | $12 |
 
 ---
-
 ## 🧱 Layer Stack: Hacker Edition
 
-```
 ```
 [🚐🐚🔲] EmberNest Shell Diagram
 
@@ -49,8 +47,6 @@ Inspired by high-tech passive climate systems, this DIY shell is made from:
   ↳ Magnetic or L-track mounts
 [EMBERNEST FRAME]
 ```
-```
-
 ---
 
 ## 🔁 Modular Behavior
