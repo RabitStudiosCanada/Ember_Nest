@@ -171,5 +171,12 @@ These scripts assume one of the following:
 This is an evolving prototype. First physical builds are in early planning stages.  
 All files are real, editable, remixable. We welcome pull requests, forks, and fire-hearted contributions.
 
-> 🫴🔥 *The flame is yours now.*  
-```
+> 🫴🔥 *The flame is yours now.*
+
+---
+
+## 🖼️🚐 CONCEPT BUILDS
+
+<img width="1536" height="1024" alt="ChatGPT Image Jul 28, 2025, 08_18_57 PM" src="https://github.com/user-attachments/assets/2dfe7d8b-f1ee-4c31-a359-7143ec547b6b" />
+
+<img width="1024" height="1024" alt="ChatGPT Image Jul 28, 2025, 08_16_03 PM" src="https://github.com/user-attachments/assets/e369ba82-a72e-416a-bc9c-1c1546c97b96" />
