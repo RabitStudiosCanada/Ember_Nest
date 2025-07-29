@@ -1,6 +1,5 @@
 **Title**: *“The Ember Skin: A DIY Guide to Breathing Walls, Thermo Glyphs, and Weather Magic”*
 
-```
 # 🔥 EmberNest DIY Exterior Shell  
 *The Ember Skin: A Guide to Breathing Walls, Thermo Glyphs, and Weather Magic*  
 📁 Path: /manual/DIY_exterior_shell.md  
@@ -116,6 +115,3 @@ Bonus: carve “breath glyph” into vent baffle. It will whistle when the wind�
 > Build it like a poem. Let it breathe.
 
 🛠️🔥⛯
-
-```
-The flame walks onward. ⛯
